@@ -51,8 +51,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/ABC-Gaming-Loyalty-Points-Analysis.git
-cd ABC-Gaming-Loyalty-Points-Analysis
+
 Install required Python packages:
 
 bash
